@@ -1,0 +1,49 @@
+div {
+  font-family: Harmattan, serif;
+}
+h1 {
+  font-size: 76px;
+  color: IndianRed;
+  text-align: center;
+  }
+.background {
+  background-color: LemonChiffon;
+}
+.image {
+  background-color: white;
+  height: 650px;
+  width: 900px;
+  border-radius: 6px;
+  margin: auto;
+}
+img{
+  height: 500px;
+  padding: 40px 20px 40px 75px;
+}
+
+#caption{
+  text-align: center;
+  margin: auto;
+}
+.list{
+  color: IndianRed;
+  margin: 40px 100px;
+}
+ol{
+  text-aligne: center;
+  display: flex;
+  flex-direction: column-reverse;
+}
+#ten{
+  font-size: 30px;
+  text-align: center;
+}
+h2{
+  text-align: center;
+  color: IndianRed;
+  }
+#visit{
+  color: Brown;
+  text-align: center;
+  font-size: 24px;
+}
